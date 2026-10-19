@@ -1,0 +1,97 @@
+    1  ls
+    2  git --version
+    3  git clone https://github.com/mardorsan/sds510.git
+    4  ls
+    5  cd sds510
+    6  ls
+    7  ls -l
+    8  ls -a
+    9  cat README.md
+   10  explorer.exe
+   11  git congig --global user.name "Mariana Dorantes Sanchez"
+   12  git config --global user.email madors0505@gmail.com
+   13  git config --global core.autocrlf input
+   14  git status
+   15  nano hello.py
+   16  ls
+   17  cat hello.py
+   18  python3 hello.py
+   19  git status
+   20  git add hello.py
+   21  git status
+   22  git commit -m "Created a new hello program."
+   23  git push
+   24  git status
+   25  git push
+   26  winget install --id GitHub.cli
+   27  gh pr create
+   28  git push
+   29  git pull
+   30  ls -al
+   31  cd
+   32  curl -s -l https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz
+   33  tar -xvzf log.tar.gz
+   34  tar -xvzf log.tar
+   35  tar -xvzf education.text
+   36  tar -xvzf education.txt
+   37  cd ~/downloads
+   38  cd ~/Downloads
+   39  cs ~C:\Users\maria\Downloads
+   40  cd ~ /Users/maria/Downloads
+   41  cd ~/Users/maria/Downloads
+   42  tar -xvzf log.tar.gz
+   43  ls
+   44  curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz
+   45  tar -xvzf log.tar.gz
+   46  ls
+   47  curl -s -L https://www.dropbox.com/s/14ja
+   48  gxjbzhyxg8g/log.tar.gz -o log.tar.gz
+   49  s
+   50  ls
+   51  tar -xvzf log.tar.gz
+   52  curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz
+   53  ls
+   54  :~$ curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o log.tar.gz
+   55  curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o log.tar.gz
+   56  ls
+   57  tar -xvzf log.tar.gz
+   58  ls -l
+   59  head log.json
+   60  head log.csv
+   61  grep education log.csv
+   62  grep education log.csv | sc
+   63  grep education log.csv | wc
+   64  grep yada log.csv | wc
+   65  grep education log.csv | wc -l
+   66  grep 'education[^[:space:]]*\.txt' . > relevent.txt
+   67  ls
+   68  cat relevent.txt
+   69  head relevent.txt
+   70  grep 'education[^[:space:]]*\.txt' log.csv
+   71  grep 'education[^[:space:]]*\.txt' log.csv > relevent.txt
+   72  cat relevent.tzt
+   73  cat relevent.txt
+   74  ls
+   75  cd / sds510
+   76  cd /sds510
+   77  git clone https://github.com/mardorsan/sds510.git
+   78  grep -o 'education[^[:space:]]*\.txt' log.csv
+   79  grep -o 'education[^[:space:]]*\.txt' log.csv > educations.txt
+   80  cd sds510
+   81  ls
+   82  git add educations.txt
+   83  cd
+   84  git commit git push pwd
+   85  pwd
+   86  cp /home/marianad/educations.txt /home/marianad/sds510
+   87  cd sds510
+   88  ls
+   89  cd
+   90  sds
+   91  cd sds51
+   92  cd sds510
+   93  cd
+   94  cd sds510
+   95  history > bash-session.tt
+   96  ls
+   97  history > bashsession.txt
